@@ -1,19 +1,42 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Yannis Spyrou CV
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Overview
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+I am a front end developer, experienced with all development cycle stages on several web projects. Well-versed in HTML5, CSS3 and JavaScript (ES2015+) with focus on React development.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Work Experience
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+[Immediate Media Co](http://www.immediate.co.uk/) (October 2018 - Present)
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+**Duties Include:**
+
+* Participate in all Agile planning meetings and stand-ups
+* Develop and test new user-facing features, and support existing ones, across multiple browsers, platforms and devices
+* Build reusable code and libraries for future use
+
+**Technologies Used:**
+
+* Webpack, ES6+, React, NextJS, GraphQL
+* HTML5, CSS3 / SASS, Styled Components
+* Git, BitBucket, Jira
+
+[Carr Kamasa Design](https://www.carrkamasa.co.uk/) (September 2017 - October 2018)
+
+**Duties Include:**
+
+* Produce pixel perfect sites from visual concepts and designs
+* VPS Linux server deploying (Ubuntu 16.04)
+* Cross browser compatibility testing
+* Asset optimisation using Adobe Suite
+* Working with APIs
+* Integrate & test payment plugins
+
+**Technologies Used:**
+
+* Roots stack (Trellis / Bedrock / Sage 9)
+* Nginx, Ansible
+* PHP 7, Composer
+* HTML5 , CSS3 / SASS
+* Webpack, ES6+, Git
