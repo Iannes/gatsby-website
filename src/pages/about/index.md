@@ -10,6 +10,8 @@ I am a front end developer, experienced with all development cycle stages on sev
 
 [Immediate Media Co](http://www.immediate.co.uk/) (October 2018 - Present)
 
+**Role**: Mid Weight Front End Developer 
+
 **Duties Include:**
 
 * Participate in all Agile planning meetings and stand-ups
@@ -23,6 +25,8 @@ I am a front end developer, experienced with all development cycle stages on sev
 * Git, BitBucket, Jira
 
 [Carr Kamasa Design](https://www.carrkamasa.co.uk/) (September 2017 - October 2018)
+
+**Role**: Junior Full Stack Developer 
 
 **Duties Include:**
 
@@ -40,3 +44,17 @@ I am a front end developer, experienced with all development cycle stages on sev
 * PHP 7, Composer
 * HTML5 , CSS3 / SASS
 * Webpack, ES6+, Git
+
+[Discover Brand Creation](https://www.discoverbrandcreation.com/) (September 2017 - October 2018)
+
+**Role**: Junior Front End Developer 
+
+**Duties Include:**
+
+Worked as part of a multi disciplinary team, during the last 4 sprints of a team-communication app’s redesign. Our team’s task was to translate the client’s designs into pixel perfect code and ensure it was cross-browser compatible.
+
+**Technologies Used:**
+
+* CSS3 / SASS
+* Gulp
+* Git, Bitbucket
