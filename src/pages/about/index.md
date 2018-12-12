@@ -2,6 +2,8 @@
 templateKey: about-page
 title: Yannis Spyrou CV
 ---
+### 
+
 ### Overview
 
 I am a front end developer, experienced with all development cycle stages on several web projects. Well-versed in HTML5, CSS3 and JavaScript (ES2015+) with focus on React development.
